@@ -1,0 +1,14 @@
+C:\Users\82103\source\repos\consoleproject1\bin\Debug\net8.0\consoleproject1.exe
+C:\Users\82103\source\repos\consoleproject1\bin\Debug\net8.0\consoleproject1.deps.json
+C:\Users\82103\source\repos\consoleproject1\bin\Debug\net8.0\consoleproject1.runtimeconfig.json
+C:\Users\82103\source\repos\consoleproject1\bin\Debug\net8.0\consoleproject1.dll
+C:\Users\82103\source\repos\consoleproject1\bin\Debug\net8.0\consoleproject1.pdb
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.AssemblyInfoInputs.cache
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.AssemblyInfo.cs
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.csproj.CoreCompileInputs.cache
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.dll
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\refint\consoleproject1.dll
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.pdb
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\consoleproject1.genruntimeconfig.cache
+C:\Users\82103\source\repos\consoleproject1\obj\Debug\net8.0\ref\consoleproject1.dll
