@@ -1,0 +1,14 @@
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\bin\Debug\net8.0\Factory Method.exe
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\bin\Debug\net8.0\Factory Method.deps.json
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\bin\Debug\net8.0\Factory Method.runtimeconfig.json
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\bin\Debug\net8.0\Factory Method.dll
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\bin\Debug\net8.0\Factory Method.pdb
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfo.cs
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.dll
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\refint\Factory Method.dll
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.pdb
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\Factory Method.genruntimeconfig.cache
+C:\Users\82103\source\repos\5week\0808Design pattern Practice\Factory Method\obj\Debug\net8.0\ref\Factory Method.dll
